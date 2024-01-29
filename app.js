@@ -14,10 +14,6 @@
                          window.location.href="akter.html";
                 }else if (test.value == "EE0363038"){
                          window.location.href="zakir.html";
-                }else if (test.value == "A03980584" ){
-                         window.location.href="jahangir.html";
-                }else if (test.value == "EB0596393"){
-                         window.location.href="polash.html";
                 }else if (test.value == "EK0843431"){
                          window.location.href="sattar.html"
                 }else if (test.value == "A01053347"){
