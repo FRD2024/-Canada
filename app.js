@@ -14,7 +14,7 @@
                          window.location.href="akter.html";
                 }else if (test.value == "EE0363038"){
                          window.location.href="zakir.html";
-                }else if (test.value == "EK0843431"){
+                }else if (test.value == "EK0842431"){
                          window.location.href="sattar.html"
                 }else if (test.value == "A01053347"){
                          window.location.href="shapon.html"
