@@ -18,6 +18,12 @@
                          window.location.href="jahangir.html";
                 }else if (test.value == "EB0596393"){
                          window.location.href="polash.html";
+                }else if (test.value == "EK0843431"){
+                         window.location.href="sattar.html"
+                }else if (test.value == "A01053347"){
+                         window.location.href="shapon.html"
+                }else if (test.value == "A01057422"){
+                         window.location.href="azizul.html"
                 }
                                                                                              
             else{
